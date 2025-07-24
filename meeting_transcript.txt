@@ -1,0 +1,10 @@
+[Alice]: Hi everyone, thanks for joining. Today we'll review our Q2 marketing goals and finalize plans for the upcoming product launch.
+[Bob]: Sounds good. I've pulled data from last quarter—our email campaign had a 12% open rate, which is below target.
+[Carol]: Agreed. We might need to adjust the content strategy or segment better.
+[Dave]: Also, our social engagement on Instagram dropped by 20%.
+[Alice]: Action item: Bob, can you analyze email open rates by segment and report back next week?
+[Bob]: Sure, I’ll get that done.
+[Carol]: I’ll also look into potential influencer partnerships to boost social engagement.
+[Alice]: Great. One more thing—let’s aim to finalize the product launch date by Friday.
+[Dave]: Got it. I’ll sync with the product team and propose a date tomorrow.
+[Alice]: Perfect. Thanks, everyone. Meeting adjourned.
